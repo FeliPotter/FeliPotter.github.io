@@ -1,0 +1,67 @@
+button{
+		background-color: black;
+	}
+    p{
+		font-size: 20px;
+	}
+	#returnNav {
+		word-spacing: 40px;
+		background-color: black;
+	}
+	#returnPage {
+		color: white
+	}
+	#returnHome {
+		color: white
+	}
+	button{
+		background-color: black;
+	}
+	header{
+		background-color: black;
+		color: white;
+        word-spacing: 50px;
+        font-size: 20px;
+	}
+    body{
+		background-color: lightgray; }
+    nav{
+            background-color: black;
+             word-spacing: 15px
+        }
+    .membros {
+        background-color: lightgray;
+		margin: 20px;
+    }
+	.membersNav {
+		color: white
+	}
+	.headerButtons {
+		color: white;
+		font-size: 18px;
+	}
+	.albuns {
+		font-size: 28px;
+	}
+	.body {
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	object{
+		position:absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+	}
+	#centralizaTD{
+		text-align: center;
+	}
+	h1 {
+		text-align: center;
+	}
+	.input{
+		width: 300px;
+	}
